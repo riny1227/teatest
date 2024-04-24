@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/teatest/static/css/main.df490a7e.css",
-    "main.js": "/teatest/static/js/main.07292c9a.js",
+    "main.css": "/teatest/static/css/main.f919de6a.css",
+    "main.js": "/teatest/static/js/main.bee940ae.js",
     "static/js/453.13210c43.chunk.js": "/teatest/static/js/453.13210c43.chunk.js",
     "static/media/PyeongChang-Regular.ttf": "/teatest/static/media/PyeongChang-Regular.2c5f76d8c748e39c7b00.ttf",
     "static/media/PyeongChang-Bold.ttf": "/teatest/static/media/PyeongChang-Bold.274aeb20c6dcf8fe8af9.ttf",
@@ -12,12 +12,12 @@
     "static/media/TypeB.png": "/teatest/static/media/TypeB.46283f51dae726c5d8c2.png",
     "static/media/StartView.png": "/teatest/static/media/StartView.12bce380ccf29ce5e124.png",
     "index.html": "/teatest/index.html",
-    "main.df490a7e.css.map": "/teatest/static/css/main.df490a7e.css.map",
-    "main.07292c9a.js.map": "/teatest/static/js/main.07292c9a.js.map",
+    "main.f919de6a.css.map": "/teatest/static/css/main.f919de6a.css.map",
+    "main.bee940ae.js.map": "/teatest/static/js/main.bee940ae.js.map",
     "453.13210c43.chunk.js.map": "/teatest/static/js/453.13210c43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df490a7e.css",
-    "static/js/main.07292c9a.js"
+    "static/css/main.f919de6a.css",
+    "static/js/main.bee940ae.js"
   ]
 }
