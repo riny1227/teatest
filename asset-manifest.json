@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/teatest/static/css/main.f855e6bc.css",
-    "main.js": "/teatest/static/js/main.59f75303.js",
+    "main.css": "/teatest/static/css/main.df490a7e.css",
+    "main.js": "/teatest/static/js/main.07292c9a.js",
     "static/js/453.13210c43.chunk.js": "/teatest/static/js/453.13210c43.chunk.js",
-    "static/media/logo.svg": "/teatest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/PyeongChang-Regular.ttf": "/teatest/static/media/PyeongChang-Regular.2c5f76d8c748e39c7b00.ttf",
+    "static/media/PyeongChang-Bold.ttf": "/teatest/static/media/PyeongChang-Bold.274aeb20c6dcf8fe8af9.ttf",
+    "static/media/TypeA.png": "/teatest/static/media/TypeA.66ec9ad82a35e8636868.png",
+    "static/media/TypeD.png": "/teatest/static/media/TypeD.ef11818daa0d4124d65b.png",
+    "static/media/TypeC.png": "/teatest/static/media/TypeC.e46058032027a1441b70.png",
+    "static/media/TypeE.png": "/teatest/static/media/TypeE.7f8b9d57451aeaa3f869.png",
+    "static/media/TypeB.png": "/teatest/static/media/TypeB.46283f51dae726c5d8c2.png",
+    "static/media/StartView.png": "/teatest/static/media/StartView.12bce380ccf29ce5e124.png",
     "index.html": "/teatest/index.html",
-    "main.f855e6bc.css.map": "/teatest/static/css/main.f855e6bc.css.map",
-    "main.59f75303.js.map": "/teatest/static/js/main.59f75303.js.map",
+    "main.df490a7e.css.map": "/teatest/static/css/main.df490a7e.css.map",
+    "main.07292c9a.js.map": "/teatest/static/js/main.07292c9a.js.map",
     "453.13210c43.chunk.js.map": "/teatest/static/js/453.13210c43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.59f75303.js"
+    "static/css/main.df490a7e.css",
+    "static/js/main.07292c9a.js"
   ]
 }
